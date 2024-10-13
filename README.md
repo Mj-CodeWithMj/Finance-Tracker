@@ -95,6 +95,7 @@ In today’s digital age, privacy is paramount, and the Finance Tracker app is d
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![file](https://github.com/user-attachments/assets/b812f720-d9a6-4aa9-9cdf-6becef1b0ebb)
 
 
 
