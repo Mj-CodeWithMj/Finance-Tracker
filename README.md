@@ -3,49 +3,64 @@ Track your daily income and expenses effortlessly!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 Purpose
+
 The Finance Tracker App is designed to make managing your daily finances easier, safer, and more intuitive. 
 This Android app allows users to track income and expenses through manual entries or automatically from SMS notifications—without sharing any sensitive information. 
-With a clean UI and Firebase integration, it brings all your transactions to your fingertips.
+With a clean UI, Firebase integration, toast messages for user feedback, and progress bars to indicate loading or processing tasks, 
+it brings all your transactions to your fingertips.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📱 User Journey
+
 Permissions & Registration
 Upon first launch, the app requests Notification and SMS permissions. After that, users register with their email and password. 
-A verification link is sent to their email, and once verified, they can log in and begin using the app.
+A verification link is sent to their email, and once verified, they can log in and begin using the app. 
+Toast messages are shown at various stages to inform users of successful registration, email verification, or any issues.
 
 User Login & Profile Setup
-On the first login, users are asked for a few basic profile details. Subsequent logins will take users directly to the app’s Home Page.
+On the first login, users are asked for a few basic profile details. 
+Progress bars are displayed during data loading or authentication processes, and toast messages confirm successful logins or provide feedback if issues occur. 
+Subsequent logins will take users directly to the app’s Home Page.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🌟 Key Features
+
 Four Core Fragments
 The app features Home, Income, Expense, and Profile fragments, each with distinct roles:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🏠 Home Fragment
+
 A floating action button allows users to add income or expense entries manually for cash transactions.
 Track overall income, expenses, and balance at a glance, displayed with card views.
-Add transactions with details like amount, transaction type (Cash, Bank, or Online), note, and date using the floating action buttons.
+Add transactions with details like amount, transaction type (Cash, Bank, or Online), note, and date using the floating action buttons. Toast messages appear after adding, updating, or deleting a transaction for clear feedback.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 💰 Income & Expense Fragments
+
 View your total income and expenses at the top.
 Filter transactions by date and type (All, Bank, Online, Cash).
-Data fetched from Firebase Realtime Database is displayed in a clean RecyclerView. Filter results update the total amount in real time.
-Users can update and delete transactions by clicking the corresponding icons in the recycler view.
+Data fetched from Firebase Realtime Database is displayed in a clean RecyclerView. Filter results update the total amount in real-time, and toast messages confirm actions like filtering, updating, or deleting transactions. 
+Progress bars ensure a smooth experience during data loading.
+Users can update and delete transactions by clicking the corresponding icons in the recycler view, with toast messages confirming success or failure.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👤 Profile Fragment
+
 Manage profile details with features like Edit Profile, Change Password, and Dark Mode (Night Mode).
-User settings include options like enabling/disabling notifications and the ability to logout.
+User settings include options like enabling/disabling notifications and the ability to logout, with toast messages confirming profile updates and settings changes.
+A progress bar is used during any loading of user data.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🤖 Automated Transaction Detection
-The app automatically detects and extracts data from SMS notifications using custom regex logic for banks. The app can extract transaction details like:
 
-Amount
-Date (stored in dd-MM-yy format)
-Transaction Type (Bank, Online, UPI)
+The app automatically detects and extracts data from SMS notifications using custom regex logic for banks. 
+The app can extract transaction details like:
+  Amount
+  Date (stored in dd-MM-yy format)
+  Transaction Type (Bank, Online, UPI)
+  
+Progress bars appear when SMS data is being processed, and toast messages inform users when SMS extraction has been successful or if an error occurs.
 No sensitive information (like Aadhaar, PAN, etc.) is collected or required.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
