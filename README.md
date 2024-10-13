@@ -191,6 +191,7 @@ In today’s digital age, privacy is paramount, and the Finance Tracker app is d
 ![1000099138](https://github.com/user-attachments/assets/14857bf0-85d7-49b1-a952-98f779bbd410)
 
 **Delete Dailog Image**
+
 ![1000099139](https://github.com/user-attachments/assets/5f226f23-f1f4-406f-9bdd-26c9a65c1652)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
