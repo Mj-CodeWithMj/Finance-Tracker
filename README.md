@@ -112,7 +112,7 @@ In today’s digital age, privacy is paramount, and the Finance Tracker app is d
 
 Main Acitivity ( Login page ) Image 
 
-![1000099084](https://github.com/user-attachments/assets/bd04f57e-7df9-4eea-9f2f-4266fb308cd5)
+![1000099084](https://github.com/user-attachments/assets/f45e7339-7b23-469e-8b1a-c170b0d0d55a)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Registion page Image
