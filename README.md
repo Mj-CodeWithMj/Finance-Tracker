@@ -110,174 +110,174 @@ In today’s digital age, privacy is paramount, and the Finance Tracker app is d
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Main Acitivity ( Login page ) Image 
+**Main Acitivity ( Login page ) Image** 
 
 ![1000099084](https://github.com/user-attachments/assets/15cfe702-49d0-4ff6-9fcd-10fbc6d7bd65)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Registion page Image
+**Registion page Image**
 
-![WhatsApp Image 2024-10-13 at 14 04 52_8fb43ad7](https://github.com/user-attachments/assets/17e4c184-db83-4e52-b495-77a2b9f83e81)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-First time login User details page Image
-
-![WhatsApp Image 2024-10-13 at 14 07 23_07f57c68](https://github.com/user-attachments/assets/f5960153-05ed-487d-883a-68a4cb4cd360)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Home Fragment (Home page) Image (Day Mode Image)
-
-![WhatsApp Image 2024-10-13 at 14 10 35_3aade1ab](https://github.com/user-attachments/assets/92b688ad-4d8e-460c-904c-401d9c2ff953)
-
-Home Fragment Floatting button to add income and expense Dailog box Image
-
-![WhatsApp Image 2024-10-13 at 14 12 13_a4ff81b0](https://github.com/user-attachments/assets/d3f5dd02-5477-48a1-b66b-75d6020212a6)
-
-![WhatsApp Image 2024-10-13 at 14 12 14_38fdcea8](https://github.com/user-attachments/assets/7c81928f-6393-4e85-bf7c-fc4fb0c435b7)
-
-
-Home Fragment (Home page) Image (Night Mode Image)
-
-![WhatsApp Image 2024-10-13 at 14 31 39_24b93e49](https://github.com/user-attachments/assets/54126c8a-6086-4c40-8aac-16bd0109255f)
-
-Home Fragment Floatting button to add income and expense Dailog box Image
-
-![WhatsApp Image 2024-10-13 at 14 31 40_6f78f173](https://github.com/user-attachments/assets/61baf454-af63-4bb6-bda8-aedb2bb232d1)
-
-![WhatsApp Image 2024-10-13 at 14 31 40_d2306cb3](https://github.com/user-attachments/assets/e95eb2a1-b9cf-43a6-8037-6dcc6814cea6)
+![1000099086](https://github.com/user-attachments/assets/5bc4fc16-dbec-41e1-a7fa-dd5e04d998b3)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Income Fragment Image (Day Mode Image)
+**First time login User details page Image**
 
-Normal view Image 
+![1000099088](https://github.com/user-attachments/assets/9e86924d-6b2f-4a4c-8111-ca18d0a0008c)
 
-![WhatsApp Image 2024-10-13 at 14 16 35_0a652178](https://github.com/user-attachments/assets/74219cc7-9042-449d-8062-0c0740a20c6c)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Home Fragment (Home page) Image (Day Mode Image)**
 
-Date filtered Transaction Image
+![1000099091](https://github.com/user-attachments/assets/36c92245-d260-4176-8901-f6c858b733b8)
 
-![WhatsApp Image 2024-10-13 at 14 16 36_102d01c2](https://github.com/user-attachments/assets/cbbb682a-6904-40bf-9c74-1bf4410da9c7)
+**Home Fragment Floatting button to add income and expense Dailog box Image**
 
-Transaction Type filtered Image 
+![1000099093](https://github.com/user-attachments/assets/3a2da97b-830c-45ea-98ca-893e4a45fc85)
 
-![WhatsApp Image 2024-10-13 at 14 16 37_ae403a36](https://github.com/user-attachments/assets/e7661378-0ed1-4088-9d23-d9ece11bb9c6)
+![1000099094](https://github.com/user-attachments/assets/ca37b095-6cb3-430a-87c5-dbef680cff4a)
 
-Update Dailog Image
 
-![WhatsApp Image 2024-10-13 at 14 20 41_983bf1d4](https://github.com/user-attachments/assets/e50dd6a9-ab9e-47d8-bf91-90760f760b7f)
+**Home Fragment (Home page) Image (Night Mode Image)**
 
-Delete Dailog Image
+![1000099129](https://github.com/user-attachments/assets/ca742c02-cb38-4a0f-8b2c-149e34fe2a0f)
 
-![WhatsApp Image 2024-10-13 at 14 20 41_ef7a2edd](https://github.com/user-attachments/assets/fcb3bc79-d7aa-4370-acd0-9d8f3378b53f)
+**Home Fragment Floatting button to add income and expense Dailog box Image**
 
-Income Fragment Image (Night Mode Image)
+![1000099131](https://github.com/user-attachments/assets/19897046-1c4c-4036-8527-bba56bdd2ae8)
 
-Normal view Image
-
-![WhatsApp Image 2024-10-13 at 14 33 52_f9783fe8](https://github.com/user-attachments/assets/4b2b0e8c-dab5-4d83-bef1-a29f9db0b1bb)
-
-Date filtered Transaction Image
-
-![WhatsApp Image 2024-10-13 at 14 33 52_14e5a6c3](https://github.com/user-attachments/assets/3e0a6767-84c8-40e3-b737-aafdde4012b8)
-
-Transaction Type filtered Image 
-
-![WhatsApp Image 2024-10-13 at 14 33 51_978049d1](https://github.com/user-attachments/assets/676c7b27-8319-47e4-b653-f0f95d897a51)
-
-Update Dailog Image
-
-![WhatsApp Image 2024-10-13 at 14 33 51_d8a75a3a](https://github.com/user-attachments/assets/039e3cd1-cd27-4142-8735-13917c15dc2e)
-
-Delete Dailog Image
-
-![WhatsApp Image 2024-10-13 at 14 33 50_51d05821](https://github.com/user-attachments/assets/747de9b3-fb99-48f7-a298-f72a13ac9b25)
-
+![1000099130](https://github.com/user-attachments/assets/fddd914b-30c4-4c91-812a-d3e2f1c94ec3)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Expense Fragment Image (Day Mode Image)
+**Income Fragment Image (Day Mode Image)**
 
-Normal view Image 
+**Normal view Image**
 
-![WhatsApp Image 2024-10-13 at 14 23 23_e4e4d55b](https://github.com/user-attachments/assets/8f414b4a-6d42-401e-921b-001929636d61)
+![1000099097](https://github.com/user-attachments/assets/afea1b50-bf53-4c6e-a884-724cf3e2f8e3)
 
-Date filtered Transaction Image
+**Date filtered Transaction Image**
 
-![WhatsApp Image 2024-10-13 at 14 23 23_424d5d43](https://github.com/user-attachments/assets/5166ee11-7036-49c1-9596-28f152028553)
+![1000099098](https://github.com/user-attachments/assets/72628268-d726-475d-acae-0cd5352294de)
 
-Transaction Type filtered Image 
+**Transaction Type filtered Image**
 
-![WhatsApp Image 2024-10-13 at 14 23 22_dcab9947](https://github.com/user-attachments/assets/f5fea4c1-ee1c-432a-b80e-cf76541c0c3b)
+![1000099100](https://github.com/user-attachments/assets/52a6c53a-e2e3-453a-be30-255f13b59db9)
 
-Update Dailog Image
+**Update Dailog Image**
 
-![WhatsApp Image 2024-10-13 at 14 23 21_eaec1d41](https://github.com/user-attachments/assets/47598f7b-460c-43f3-9ffd-d2e5a9854d9a)
+![1000099104](https://github.com/user-attachments/assets/5b0f6802-8190-43db-b8fd-c958f41f77b4)
 
-Delete Dailog Image
+**Delete Dailog Image**
 
-![WhatsApp Image 2024-10-13 at 14 23 21_1315f45f](https://github.com/user-attachments/assets/b06553f0-12c1-4ff8-9a15-c0ee4d2ad78d)
+![1000099105](https://github.com/user-attachments/assets/e6f83781-ee7d-4606-b6a6-7a576943e7b0)
 
-Expense Fragment Image (Night Mode Image)
 
-Normal view Image 
+**Income Fragment Image (Night Mode Image)**
 
-![WhatsApp Image 2024-10-13 at 14 36 45_2fc7b184](https://github.com/user-attachments/assets/63ca2536-98ca-4deb-a50f-4452c2852a6b)
+**Normal view Image**
 
-Date filtered Transaction Image
+![1000099135](https://github.com/user-attachments/assets/39509764-bb36-4467-952b-082a67c14a05)
 
-![WhatsApp Image 2024-10-13 at 14 36 46_d44a0520](https://github.com/user-attachments/assets/b9e00a78-6a23-4d4e-9234-e448dfe7eecc)
+**Date filtered Transaction Image**
 
-Transaction Type filtered Image 
+![1000099136](https://github.com/user-attachments/assets/e839b380-a8fb-4c06-9f43-b32b7c08685c)
 
-![WhatsApp Image 2024-10-13 at 14 36 46_b5807230](https://github.com/user-attachments/assets/ff702ad2-7e5f-4bc2-b06f-b21b6a0c091d)
+**Transaction Type filtered Image** 
 
-Update Dailog Image
+![1000099137](https://github.com/user-attachments/assets/18e81c59-b0a2-4a75-a0bb-be9c2311ad29)
 
-![WhatsApp Image 2024-10-13 at 14 36 47_9a4d018b](https://github.com/user-attachments/assets/c774f8f6-a3d0-422b-b6d7-b7939a2f6b71)
+**Update Dailog Image**
 
-Delete Dailog Image
+![1000099138](https://github.com/user-attachments/assets/14857bf0-85d7-49b1-a952-98f779bbd410)
 
-![WhatsApp Image 2024-10-13 at 14 36 47_d1f8a1ab](https://github.com/user-attachments/assets/e2a6b21b-3092-4350-b46d-76dfdb4c34b8)
-
+**Delete Dailog Image**
+![1000099139](https://github.com/user-attachments/assets/5f226f23-f1f4-406f-9bdd-26c9a65c1652)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Profile Fragment Image (Day Mode Image)
+**Expense Fragment Image (Day Mode Image)**
 
-Normal View Image
+**Normal view Image** 
 
-![WhatsApp Image 2024-10-13 at 14 26 10_572456bc](https://github.com/user-attachments/assets/4717bdb6-906d-4958-b2b9-3e687e9f3cbd)
+![1000099110](https://github.com/user-attachments/assets/1748ff10-1381-448b-af15-4328b803f19b)
 
-Click on user Name UserDetailsEditProfile Image
+**Date filtered Transaction Image**
 
-![WhatsApp Image 2024-10-13 at 14 26 11_22b1181a](https://github.com/user-attachments/assets/630028a1-4b71-4c93-9929-8ba280696301)
+![1000099111](https://github.com/user-attachments/assets/c4b5773a-5293-48ea-9c71-d0d936f2852a)
 
-Edit Profile or uodate Profile Image
+**Transaction Type filtered Image** 
 
-![WhatsApp Image 2024-10-13 at 14 26 11_c02bebe5](https://github.com/user-attachments/assets/86923c89-9d74-490c-89e7-5c56c45f3e19)
+![1000099112](https://github.com/user-attachments/assets/810eff0b-479d-4b4b-8ca1-56f63264badc)
 
-Change Password
+**Update Dailog Image**
 
-![WhatsApp Image 2024-10-13 at 14 26 11_ba9fc9c1](https://github.com/user-attachments/assets/cf5320a7-ec0e-43b7-8d9f-eea1aa5da2e2)
+![1000099113](https://github.com/user-attachments/assets/33b6c981-e331-4a2f-9457-7ef96a2f200c)
 
-Profile Fragment Image (Night Mode Image)
+**Delete Dailog Image**
 
-Normal View Image
+![1000099114](https://github.com/user-attachments/assets/a5eb3afd-bf51-4d7d-8d0b-0cd90e029498)
 
-![WhatsApp Image 2024-10-13 at 14 39 12_956c1dd6](https://github.com/user-attachments/assets/77a73aa0-393b-418f-863a-6365ac8356ce)
 
-Click on user Name UserDetailsEditProfile Image
+**Expense Fragment Image (Night Mode Image)**
 
-![WhatsApp Image 2024-10-13 at 14 39 12_1cc5fa0b](https://github.com/user-attachments/assets/ba4bebb4-3f35-4a30-a7f7-e2493fa65584)
+**Normal view Image**
 
-Edit Profile or uodate Profile Image
+![1000099145](https://github.com/user-attachments/assets/6f2b2c70-4052-4187-ac82-9b49a60984cc)
 
-![WhatsApp Image 2024-10-13 at 14 39 13_6e1fbe73](https://github.com/user-attachments/assets/0fb1a8f7-e41f-4c16-b906-99ff2929af66)
+**Date filtered Transaction Image**
 
-Change Password
+![1000099147](https://github.com/user-attachments/assets/7fbe56c9-d0dd-4c63-bcef-4237ffa2a21b)
 
-![WhatsApp Image 2024-10-13 at 14 39 13_37fae66b](https://github.com/user-attachments/assets/13fcbdfd-6f87-4522-9b63-420d3e1d83ed)
+**Transaction Type filtered Image** 
+
+![1000099148](https://github.com/user-attachments/assets/aadd1cf5-6da0-485b-81c5-4ae892c5bcd3)
+
+**Update Dailog Image**
+
+![1000099149](https://github.com/user-attachments/assets/c96d4c03-5378-4078-9130-10233460285c)
+
+**Delete Dailog Image**
+
+![1000099150](https://github.com/user-attachments/assets/d2716a65-b509-4188-b20c-5faa0c32893a)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Profile Fragment Image (Day Mode Image)**
+
+**Normal View Image**
+
+![1000099120](https://github.com/user-attachments/assets/1fc3e00e-1f90-46e3-8eb4-6532c74adc17)
+
+**Click on user Name UserDetailsEditProfile Image**
+
+![1000099121](https://github.com/user-attachments/assets/707d0791-9bc4-412f-84b1-0a6df0445ee9)
+
+**Edit Profile or uodate Profile Image**
+
+![1000099122](https://github.com/user-attachments/assets/4a2954e7-2391-4def-b018-ae886b9fb0cf)
+
+**Change Password**
+
+![1000099123](https://github.com/user-attachments/assets/d0796ad1-b9df-4f22-a714-b8efc1fea70e)
+
+
+**Profile Fragment Image (Night Mode Image)**
+
+**Normal View Image**
+
+![1000099156](https://github.com/user-attachments/assets/fdea6c55-3933-4e8e-91b4-34b06cdcf798)
+
+**Click on user Name UserDetailsEditProfile Image**
+
+![1000099157](https://github.com/user-attachments/assets/3858bd00-43bc-4744-a140-062a05c73a77)
+
+**Edit Profile or uodate Profile Image**
+
+![1000099158](https://github.com/user-attachments/assets/f7533045-1649-49d7-a8cd-a0dfd6b37135)
+
+**Change Password**
+
+![1000099159](https://github.com/user-attachments/assets/a7d357f4-5722-4ecf-b323-480f47da5d4f)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
