@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.FinanceTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#C7CA71</item>  <!-- Set status bar color -->
+        <item name="android:windowTranslucentStatus">false</item> <!-- Make sure this is false for solid color -->
+    </style>
+
+    <style name="Theme.FinanceTracker" parent="Base.Theme.FinanceTracker" />
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    android:padding="12dp"
+    android:elevation="6dp"
+    app:cardElevation="3dp"
+    app:cardCornerRadius="8dp"
+    android:backgroundTint="#FFFFFF">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:background="@drawable/card_background">
+
+        <!-- Date on the Top Left -->
+        <TextView
+            android:id="@+id/text_View_Income_Date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:textColor="@color/date_txt_card"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp" />
+
+        <!-- Update Icon -->
+        <ImageView
+            android:id="@+id/image_View_Update_income"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/edit"
+            android:contentDescription="Update"
+            android:layout_toStartOf="@id/image_View_Delete_income"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_alignBaseline="@id/text_View_Income_Date"/>
+
+        <!-- Delete Icon -->
+        <ImageView
+            android:id="@+id/image_View_Delete_income"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/delete"
+            android:contentDescription="Delete"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="12dp"
+            android:layout_alignBaseline="@id/text_View_Income_Date"/>
+
+        <!-- Note/Source of Income below the Date -->
+        <TextView
+            android:id="@+id/text_View_Income_Note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Source of Income"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="@color/note_txt_card"
+            android:layout_below="@id/text_View_Income_Date"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="4dp" />
+
+        <!-- Income Type -->
+        <TextView
+            android:id="@+id/text_View_Income_Type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Income Type"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="@color/type_txt_card"
+            android:layout_below="@id/text_View_Income_Note"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="8dp" />
+
+        <!-- Income Amount aligned to the right side -->
+        <TextView
+            android:id="@+id/text_View_Income_Amount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Amount"
+            android:textSize="20sp"
+            android:textColor="@color/amount_txt_card_income"
+            android:textStyle="bold"
+            android:layout_alignParentEnd="true"
+            android:layout_alignBottom="@id/text_View_Income_Type"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="16dp" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Finance Tracker</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="change_password">Change Password </string>
+    <string name="enter_new_password">Enter New Password </string>
+    <string name="confirm_new_password">Confirm New Password </string>
+    <string name="don_t_have_an_account_sing_up">Don\'t have an Account? Sing-up</string>
+    <string name="main_name">Finance Tracker</string>
+    <string name="registrion">Registrion</string>
+    <string name="first_name">First Name</string>
+    <string name="search">Search</string>
+    <string name="last_name">Last Name</string>
+    <string name="user_name">User Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="name">Name</string>
+    <string name="sing_in">Sing-in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="next">Next</string>
+    <string name="already_have_an_account">Already have an Account ?</string>
+    <string name="registration">Registration</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="income">Income</string>
+    <string name="home">Home</string>
+    <string name="expense">Expense</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="expense_description">Expense</string>
+    <string name="expense_logo">Expense</string>
+    <string name="income_description">Inomce</string>
+    <string name="income_logo">Inomce</string>
+    <string name="main_logo">Main Logo</string>
+    <string name="add_income">Add Income</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="add_btn">Add</string>
+    <string name="enter_note">Add a Note</string>
+    <string name="select_date">Select Date</string>
+    <string name="filter">Filter</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="balance">Balance</string>
+
+    <!--    income expense balance amount for dashboard-->
+    <string name="income_amount">00.00</string>
+    <string name="expense_amount">00.00</string>
+    <string name="balance_amount">00.00</string>
+
+    <!--  This is for selecting transaction type in drop down-->
+    <string-array name="transaction_types">
+        <item>Select Any one</item>
+        <item>Cash</item>
+        <item>Bank</item>
+        <item>Online</item>
+    </string-array>
+
+    <!--  This is for selecting Month in drop down-->
+    <string-array name="months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+
+    <!--  This is for Selecting language in drop down-->
+    <string-array name="languages">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+    </string-array>
+    <string name="select_language">Select Language</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_newPassword">Confirm New Password</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="username">Username</string>
+    <string name="last_names">Last Name</string>
+    <string name="first_names">First Name</string>
+    <string name="enter_birth_date">Enter Birth Date</string>
+    <string name="select_month_for_budget">Select Month for Budget</string>
+    <string name="select_month">Select Month</string>
+    <string name="no_month_selected">No month selected</string>
+    <string name="generate_excel">Generate Excel</string>
+</resources>
