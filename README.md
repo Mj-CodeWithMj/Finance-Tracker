@@ -132,7 +132,7 @@ In today’s digital age, privacy is paramount, and the Finance Tracker app is d
 
 **Home Fragment Floatting button to add income and expense Dailog box Image**
 
-![1000099093](https://github.com/user-attachments/assets/3a2da97b-830c-45ea-98ca-893e4a45fc85)    ![1000099094](https://github.com/user-attachments/assets/ca37b095-6cb3-430a-87c5-dbef680cff4a)
+![1000099093](https://github.com/user-attachments/assets/3a2da97b-830c-45ea-98ca-893e4a45fc85)              ![1000099094](https://github.com/user-attachments/assets/ca37b095-6cb3-430a-87c5-dbef680cff4a)
 
 
 
