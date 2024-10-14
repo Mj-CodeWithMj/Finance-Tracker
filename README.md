@@ -134,139 +134,84 @@ In today’s digital age, privacy is paramount, and the Finance Tracker app is d
 
 ![1000099093](https://github.com/user-attachments/assets/3a2da97b-830c-45ea-98ca-893e4a45fc85)    ![1000099094](https://github.com/user-attachments/assets/ca37b095-6cb3-430a-87c5-dbef680cff4a)
 
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Income Fragment Image (Day Mode Image)**
+**Income Fragment Image**
 
 **Normal view Image**
 
-![1000099097](https://github.com/user-attachments/assets/afea1b50-bf53-4c6e-a884-724cf3e2f8e3)
+![1000099097](https://github.com/user-attachments/assets/afea1b50-bf53-4c6e-a884-724cf3e2f8e3)   ![1000099135](https://github.com/user-attachments/assets/39509764-bb36-4467-952b-082a67c14a05)
+
 
 **Date filtered Transaction Image**
 
-![1000099098](https://github.com/user-attachments/assets/72628268-d726-475d-acae-0cd5352294de)
+![1000099098](https://github.com/user-attachments/assets/72628268-d726-475d-acae-0cd5352294de)   ![1000099136](https://github.com/user-attachments/assets/e839b380-a8fb-4c06-9f43-b32b7c08685c)
+
 
 **Transaction Type filtered Image**
 
-![1000099100](https://github.com/user-attachments/assets/52a6c53a-e2e3-453a-be30-255f13b59db9)
+![1000099100](https://github.com/user-attachments/assets/52a6c53a-e2e3-453a-be30-255f13b59db9)   ![1000099137](https://github.com/user-attachments/assets/18e81c59-b0a2-4a75-a0bb-be9c2311ad29)
+
 
 **Update Dailog Image**
 
-![1000099104](https://github.com/user-attachments/assets/5b0f6802-8190-43db-b8fd-c958f41f77b4)
+![1000099104](https://github.com/user-attachments/assets/5b0f6802-8190-43db-b8fd-c958f41f77b4)   ![1000099138](https://github.com/user-attachments/assets/14857bf0-85d7-49b1-a952-98f779bbd410)
+
 
 **Delete Dailog Image**
 
-![1000099105](https://github.com/user-attachments/assets/e6f83781-ee7d-4606-b6a6-7a576943e7b0)
-
-
-**Income Fragment Image (Night Mode Image)**
-
-**Normal view Image**
-
-![1000099135](https://github.com/user-attachments/assets/39509764-bb36-4467-952b-082a67c14a05)
-
-**Date filtered Transaction Image**
-
-![1000099136](https://github.com/user-attachments/assets/e839b380-a8fb-4c06-9f43-b32b7c08685c)
-
-**Transaction Type filtered Image** 
-
-![1000099137](https://github.com/user-attachments/assets/18e81c59-b0a2-4a75-a0bb-be9c2311ad29)
-
-**Update Dailog Image**
-
-![1000099138](https://github.com/user-attachments/assets/14857bf0-85d7-49b1-a952-98f779bbd410)
-
-**Delete Dailog Image**
-
-![1000099139](https://github.com/user-attachments/assets/5f226f23-f1f4-406f-9bdd-26c9a65c1652)
+![1000099105](https://github.com/user-attachments/assets/e6f83781-ee7d-4606-b6a6-7a576943e7b0)   ![1000099139](https://github.com/user-attachments/assets/5f226f23-f1f4-406f-9bdd-26c9a65c1652)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Expense Fragment Image (Day Mode Image)**
+**Expense Fragment Image**
 
 **Normal view Image** 
 
-![1000099110](https://github.com/user-attachments/assets/1748ff10-1381-448b-af15-4328b803f19b)
+![1000099110](https://github.com/user-attachments/assets/1748ff10-1381-448b-af15-4328b803f19b)   ![1000099145](https://github.com/user-attachments/assets/6f2b2c70-4052-4187-ac82-9b49a60984cc)
+
 
 **Date filtered Transaction Image**
 
-![1000099111](https://github.com/user-attachments/assets/c4b5773a-5293-48ea-9c71-d0d936f2852a)
+![1000099111](https://github.com/user-attachments/assets/c4b5773a-5293-48ea-9c71-d0d936f2852a)   ![1000099147](https://github.com/user-attachments/assets/7fbe56c9-d0dd-4c63-bcef-4237ffa2a21b)
+
 
 **Transaction Type filtered Image** 
 
-![1000099112](https://github.com/user-attachments/assets/810eff0b-479d-4b4b-8ca1-56f63264badc)
+![1000099112](https://github.com/user-attachments/assets/810eff0b-479d-4b4b-8ca1-56f63264badc)   ![1000099148](https://github.com/user-attachments/assets/aadd1cf5-6da0-485b-81c5-4ae892c5bcd3)
+
 
 **Update Dailog Image**
 
-![1000099113](https://github.com/user-attachments/assets/33b6c981-e331-4a2f-9457-7ef96a2f200c)
+![1000099113](https://github.com/user-attachments/assets/33b6c981-e331-4a2f-9457-7ef96a2f200c)   ![1000099149](https://github.com/user-attachments/assets/c96d4c03-5378-4078-9130-10233460285c)
+
 
 **Delete Dailog Image**
 
-![1000099114](https://github.com/user-attachments/assets/a5eb3afd-bf51-4d7d-8d0b-0cd90e029498)
-
-
-**Expense Fragment Image (Night Mode Image)**
-
-**Normal view Image**
-
-![1000099145](https://github.com/user-attachments/assets/6f2b2c70-4052-4187-ac82-9b49a60984cc)
-
-**Date filtered Transaction Image**
-
-![1000099147](https://github.com/user-attachments/assets/7fbe56c9-d0dd-4c63-bcef-4237ffa2a21b)
-
-**Transaction Type filtered Image** 
-
-![1000099148](https://github.com/user-attachments/assets/aadd1cf5-6da0-485b-81c5-4ae892c5bcd3)
-
-**Update Dailog Image**
-
-![1000099149](https://github.com/user-attachments/assets/c96d4c03-5378-4078-9130-10233460285c)
-
-**Delete Dailog Image**
-
-![1000099150](https://github.com/user-attachments/assets/d2716a65-b509-4188-b20c-5faa0c32893a)
+![1000099114](https://github.com/user-attachments/assets/a5eb3afd-bf51-4d7d-8d0b-0cd90e029498)   ![1000099150](https://github.com/user-attachments/assets/d2716a65-b509-4188-b20c-5faa0c32893a)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Profile Fragment Image (Day Mode Image)**
+**Profile Fragment Image**
 
 **Normal View Image**
 
-![1000099120](https://github.com/user-attachments/assets/1fc3e00e-1f90-46e3-8eb4-6532c74adc17)
+![1000099120](https://github.com/user-attachments/assets/1fc3e00e-1f90-46e3-8eb4-6532c74adc17)   ![1000099156](https://github.com/user-attachments/assets/fdea6c55-3933-4e8e-91b4-34b06cdcf798)
+
 
 **Click on user Name UserDetailsEditProfile Image**
 
-![1000099121](https://github.com/user-attachments/assets/707d0791-9bc4-412f-84b1-0a6df0445ee9)
+![1000099121](https://github.com/user-attachments/assets/707d0791-9bc4-412f-84b1-0a6df0445ee9)   ![1000099157](https://github.com/user-attachments/assets/3858bd00-43bc-4744-a140-062a05c73a77)
+
 
 **Edit Profile or uodate Profile Image**
 
-![1000099122](https://github.com/user-attachments/assets/4a2954e7-2391-4def-b018-ae886b9fb0cf)
+![1000099122](https://github.com/user-attachments/assets/4a2954e7-2391-4def-b018-ae886b9fb0cf)   ![1000099158](https://github.com/user-attachments/assets/f7533045-1649-49d7-a8cd-a0dfd6b37135)
+
 
 **Change Password**
 
-![1000099123](https://github.com/user-attachments/assets/d0796ad1-b9df-4f22-a714-b8efc1fea70e)
-
-
-**Profile Fragment Image (Night Mode Image)**
-
-**Normal View Image**
-
-![1000099156](https://github.com/user-attachments/assets/fdea6c55-3933-4e8e-91b4-34b06cdcf798)
-
-**Click on user Name UserDetailsEditProfile Image**
-
-![1000099157](https://github.com/user-attachments/assets/3858bd00-43bc-4744-a140-062a05c73a77)
-
-**Edit Profile or uodate Profile Image**
-
-![1000099158](https://github.com/user-attachments/assets/f7533045-1649-49d7-a8cd-a0dfd6b37135)
-
-**Change Password**
-
-![1000099159](https://github.com/user-attachments/assets/a7d357f4-5722-4ecf-b323-480f47da5d4f)
+![1000099123](https://github.com/user-attachments/assets/d0796ad1-b9df-4f22-a714-b8efc1fea70e)   ![1000099159](https://github.com/user-attachments/assets/a7d357f4-5722-4ecf-b323-480f47da5d4f)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
