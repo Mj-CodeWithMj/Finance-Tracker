@@ -196,13 +196,11 @@ In today’s digital age, privacy is paramount, and the Finance Tracker app is d
 
 **Normal View Image**
 
-![1000099120](https://github.com/user-attachments/assets/1fc3e00e-1f90-46e3-8eb4-6532c74adc17)   ![1000099156](https://github.com/user-attachments/assets/fdea6c55-3933-4e8e-91b4-34b06cdcf798)
-
+![1000099120](https://github.com/user-attachments/assets/1fc3e00e-1f90-46e3-8eb4-6532c74adc17)    ![1000099157](https://github.com/user-attachments/assets/3858bd00-43bc-4744-a140-062a05c73a77)
 
 **Click on user Name UserDetailsEditProfile Image**
 
-![1000099121](https://github.com/user-attachments/assets/707d0791-9bc4-412f-84b1-0a6df0445ee9)   ![1000099157](https://github.com/user-attachments/assets/3858bd00-43bc-4744-a140-062a05c73a77)
-
+![1000099121](https://github.com/user-attachments/assets/707d0791-9bc4-412f-84b1-0a6df0445ee9)    ![1000099156](https://github.com/user-attachments/assets/fdea6c55-3933-4e8e-91b4-34b06cdcf798)     
 
 **Edit Profile or uodate Profile Image**
 
