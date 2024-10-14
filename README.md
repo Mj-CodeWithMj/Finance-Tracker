@@ -126,26 +126,14 @@ In today’s digital age, privacy is paramount, and the Finance Tracker app is d
 ![1000099088](https://github.com/user-attachments/assets/9e86924d-6b2f-4a4c-8111-ca18d0a0008c)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Home Fragment (Home page) Image (Day Mode Image)**
+**Home Fragment (Home page) Image**
 
-![1000099091](https://github.com/user-attachments/assets/36c92245-d260-4176-8901-f6c858b733b8)
-
-**Home Fragment Floatting button to add income and expense Dailog box Image**
-
-![1000099093](https://github.com/user-attachments/assets/3a2da97b-830c-45ea-98ca-893e4a45fc85)              ![1000099094](https://github.com/user-attachments/assets/ca37b095-6cb3-430a-87c5-dbef680cff4a)
-
-
-
-
-**Home Fragment (Home page) Image (Night Mode Image)**
-
-![1000099129](https://github.com/user-attachments/assets/ca742c02-cb38-4a0f-8b2c-149e34fe2a0f)
+![1000099091](https://github.com/user-attachments/assets/36c92245-d260-4176-8901-f6c858b733b8)    ![1000099129](https://github.com/user-attachments/assets/ca742c02-cb38-4a0f-8b2c-149e34fe2a0f)
 
 **Home Fragment Floatting button to add income and expense Dailog box Image**
 
-![1000099131](https://github.com/user-attachments/assets/19897046-1c4c-4036-8527-bba56bdd2ae8)
+![1000099093](https://github.com/user-attachments/assets/3a2da97b-830c-45ea-98ca-893e4a45fc85)    ![1000099094](https://github.com/user-attachments/assets/ca37b095-6cb3-430a-87c5-dbef680cff4a)
 
-![1000099130](https://github.com/user-attachments/assets/fddd914b-30c4-4c91-812a-d3e2f1c94ec3)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
